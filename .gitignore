@@ -1,0 +1,9 @@
+node_modules/ 
+.env 
+dist/ 
+.angular/ 
+target/ 
+*.class 
+*.jar 
+.idea/ 
+.DS_Store
